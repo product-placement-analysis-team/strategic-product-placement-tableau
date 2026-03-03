@@ -1,6 +1,6 @@
 import pandas as pd
 
-RAW_PATH = "data/raw/Superstore.csv"
+RAW_PATH = "data/raw/Product_Positioning.csv"
 CLEAN_PATH = "data/cleaned/superstore_cleaned.csv"
 
 try:
