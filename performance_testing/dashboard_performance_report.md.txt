@@ -1,0 +1,115 @@
+# Tableau Dashboard Performance Report
+
+**Project:** Strategic Product Placement Analysis: Unveiling Sales Impact with Tableau Visualization
+
+---
+
+# 1. Dashboard Overview
+
+This report evaluates the design and performance of the Tableau dashboard created for analyzing product placement strategies and their impact on sales. The dashboard enables users to interactively explore how product category, pricing, competitor pricing, consumer demographics, promotions, and product positioning influence overall sales volume.
+
+The goal of the dashboard is to help businesses make data-driven decisions regarding product placement, pricing strategies, and promotional activities.
+
+---
+
+# 2. Dashboard Metrics
+
+**Total Visualizations:** 8
+**Filters Used:** 4
+**Calculated Fields:** 3
+
+**Average Dashboard Load Time:** 3–5 seconds
+
+---
+
+# 3. Filters Used
+
+Filters allow users to refine and focus on specific subsets of data for better analysis. The dashboard uses the following filters:
+
+1. **Product Category** – Enables users to analyze sales performance for specific product categories.
+2. **Consumer Demographics** – Filters data based on customer segments such as age group or gender.
+3. **Product Position** – Allows analysis of how product placement within a store affects sales.
+4. **Promotion Status** – Helps compare sales performance between promoted and non-promoted products.
+
+These filters make the dashboard interactive and allow users to perform customized analysis according to their requirements.
+
+---
+
+# 4. Calculated Fields
+
+The dashboard uses the following calculated fields:
+
+**1. Price**
+Represents the selling price of a product.
+
+**2. Competitor Price**
+Shows the price of the same or similar product offered by competitors in the market.
+
+**3. Sales Volume**
+Represents the total number of units sold for a particular product or category.
+
+These calculated fields help in comparing internal pricing strategies with competitor pricing and their influence on sales performance.
+
+---
+
+# 5. Visualizations Included
+
+The Tableau dashboard contains the following visualizations:
+
+1. **Average Sales Volume by Product Category**
+   Displays which product categories generate the highest average sales.
+
+2. **Average Sales Volume by Product Category on Sales**
+   Shows how different product categories contribute to total sales.
+
+3. **Consumer Demographics vs Product Category**
+   Analyzes purchasing patterns across different customer segments.
+
+4. **Foot Traffic vs Sales Volume**
+   Examines the relationship between store foot traffic and product sales.
+
+5. **Competitor Price vs Product Price**
+   Compares competitor pricing strategies with the company’s pricing.
+
+6. **Promotion Impact on Product Category (Price and Sales Volume)**
+   Analyzes how promotions influence product price and sales.
+
+7. **Product Category vs Price**
+   Displays the pricing distribution across different product categories.
+
+8. **Average Sales Volume by Product Category by Product Position**
+   Evaluates how product placement affects sales performance.
+
+---
+
+# 6. Dashboard Performance
+
+The dashboard performs efficiently with the current dataset size. The average load time ranges between **3 to 5 seconds**, ensuring smooth interaction for users when applying filters or switching between visualizations.
+
+---
+
+# 7. Observations
+
+* Product placement significantly impacts sales volume.
+* Competitive pricing plays a key role in influencing customer purchasing behavior.
+* Promotional strategies positively affect product sales across several categories.
+* Consumer demographics help identify target audiences for specific product categories.
+
+---
+
+# 8. Optimization Suggestions
+
+To further improve dashboard performance:
+
+* Reduce unnecessary calculated fields.
+* Limit the number of filters where possible.
+* Use optimized dataset extracts instead of live connections.
+* Minimize complex calculations in real-time visualizations.
+
+---
+
+# 9. Conclusion
+
+The Tableau dashboard effectively provides insights into how product placement, pricing strategies, promotions, and consumer behavior influence sales performance. The interactive filters and visualizations allow users to explore different aspects of the data, enabling better decision-making for product marketing and placement strategies.
+
+Overall, the dashboard performs efficiently and serves as a valuable tool for sales analysis and strategic planning.
