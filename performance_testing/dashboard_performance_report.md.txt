@@ -1,0 +1,25 @@
+# Tableau Dashboard Performance Report
+
+Project: Strategic Product Placement Analysis
+
+## Dashboard Overview
+This report evaluates the performance of the Tableau dashboard used in the project.
+
+## Metrics
+Total Visualizations: 8  
+Filters Used: 4  
+Calculated Fields: 3  
+
+## Dashboard Performance
+Average load time: 3–5 seconds.
+
+## Observations
+Dashboard performance is stable with the current dataset size.
+
+## Optimization Suggestions
+- Reduce unnecessary calculated fields
+- Limit number of filters
+- Use optimized dataset extracts
+
+## Conclusion
+The dashboard performs efficiently but can be further optimized.
